@@ -367,8 +367,4 @@ FP&A-SQL-PROFITABILITY-ANALYSIS
 
 # Author
 
-Samuel Marius Cyril DOUMBE
-
-Finance Professional Transitioning into Tech Finance & AI-Enabled Financial Analytics
-
-SQL | Python | Power BI | Analytics Engineering | Business Intelligence
+Nithin Kumar
